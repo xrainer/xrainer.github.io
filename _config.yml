@@ -20,7 +20,7 @@ url: "https://xrainer.github.io"
 permalink: /:year/:month/:day/:title
 repository: xrainer
 paginate: 15
-paginate_path:/page:num
+paginate_path: /page:num
 
 # MatJek specific configurations
 github_profile: "https://github.com/xrainer"
